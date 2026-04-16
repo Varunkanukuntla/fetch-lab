@@ -1,0 +1,224 @@
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MI
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating obj
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git init
+Initialized empty Git repository in C:/Users/varun/OneDrive/Desktop/GitHub/fetch-lab/.git/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+ects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+NGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ git clone https://github.com/Varunkanukuntla/fetch-lab.git
+Cloning into 'fetch-lab'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ ls
+fetch-lab/
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
+$ cd ..
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab (master)
+$ cd fetch-lab
+
+varun@LAPTOP-HHAMB459 MINGW64 ~/OneDrive/Desktop/GitHub/fetch-lab/fetch-lab (main)
